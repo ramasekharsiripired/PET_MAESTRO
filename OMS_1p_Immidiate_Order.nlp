@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=OMS_1p_Immidiate_Order
+project.version=8.7
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=9.1.1
+product.original.version=8.0.2
+project.is-open-test-settings-after-upload=false
+project.id=ad5c18c4-5d4c-4c52-8057-46ce8ff9ed85
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
